@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"testing"
 
+	"github.com/jamessouth/astrav"
 	"github.com/stretchr/testify/assert"
-	"github.com/tehsphinx/astrav"
 )
 
 type test struct {

@@ -1,7 +1,7 @@
 package astpatt
 
 import (
-	"github.com/tehsphinx/astrav"
+	"github.com/jamessouth/astrav"
 )
 
 // Node represents a pattern node.

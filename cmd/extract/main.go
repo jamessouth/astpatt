@@ -7,8 +7,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/tehsphinx/astpatt"
-	"github.com/tehsphinx/astrav"
+	"github.com/jamessouth/astpatt"
+	"github.com/jamessouth/astrav"
 )
 
 var (

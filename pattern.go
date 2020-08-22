@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 
+	"github.com/jamessouth/astrav"
 	"github.com/pmezard/go-difflib/difflib"
-	"github.com/tehsphinx/astrav"
 )
 
 // ExtractPattern extracts the pattern from a given ast package

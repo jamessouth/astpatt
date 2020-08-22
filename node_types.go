@@ -1,7 +1,7 @@
 package astpatt
 
 import (
-	"github.com/tehsphinx/astrav"
+	"github.com/jamessouth/astrav"
 )
 
 // FuncDecl node

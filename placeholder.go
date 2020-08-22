@@ -1,6 +1,6 @@
 package astpatt
 
-import "github.com/tehsphinx/astrav"
+import "github.com/jamessouth/astrav"
 
 // Special node types
 const (
